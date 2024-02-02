@@ -12,7 +12,7 @@
     "developer": "Abdalrhman Aldabbas",
     "source": "Elzero Web School",
     "language": "English",
-    "picture": "../imgs/template_imags/leonTemplate.png"
+    "picture": "./imgs/template_imags/leonTemplate.png"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "developer": "Abdalrhman Aldabbas",
     "source": "Elzero Web School",
     "language": "English",
-    "picture": "../imgs/template_imags/kasperTemplate.png"
+    "picture": "./imgs/template_imags/kasperTemplate.png"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "developer": "Abdalrhman Aldabbas",
     "source": "Elzero Web School",
     "language": "English",
-    "picture": "../imgs/template_imags/elzeroTemplate.png"
+    "picture": "./imgs/template_imags/elzeroTemplate.png"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "developer": "Abdalrhman Aldabbas",
     "source": "Elzero Web School",
     "language": "English",
-    "picture": "../imgs/template_imags/elzeroDashboardTemplate.png"
+    "picture": "./imgs/template_imags/elzeroDashboardTemplate.png"
   },
   {
     "id": 5,
@@ -72,6 +72,6 @@
     "developer": "Abdalrhman Aldabbas",
     "source": "Elzero Web School",
     "language": "Arabic English",
-    "picture": "../imgs/template_imags/hangmanGame.png"
+    "picture": "./imgs/template_imags/hangmanGame.png"
   }
 ]

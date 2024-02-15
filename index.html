@@ -299,7 +299,18 @@
         </div>
       </div>
     </div>
+<script>
+    let btn = document.getElementById("applyBg");
 
+      let bgLinkInput = document.getElementById("link");
+
+      btn.onclick = (e) => {
+        // e.preventDefault();
+        if (bgLinkInput.value.length > 0) {
+        }
+        document.body.style.backgroundImage = `url('${bgLinkInput.value}')`;
+      };
+</script>
     <audio
       id="unlock-sound"
       src="./sounds/short-success-sound-glockenspiel-treasure-video-game-6346.mp3"

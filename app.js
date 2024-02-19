@@ -1640,11 +1640,11 @@ function applyTheme(color) {
   switch (color) {
     case "red":
       themeStyleFile.innerHTML = `:root {
-  --main-color: #ff3d00;
-  --secoundary-color: #e7c3c3;
-  --background-main-color:#ff3d004e;
-  --background-white-color: #e7c3c37e;
-  --background-color: #000f18;
+--main-color: #ff0000;
+    --secoundary-color: #e7c3c3;
+    --background-main-color: #ff000038;
+    --background-white-color: #e7c3c37e;
+    --background-color: #000f18;
 }`;
       break;
     case "blue":
